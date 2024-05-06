@@ -41,3 +41,11 @@ func TestFileIO_Read(t *testing.T) {
 	t.Log(dat2)
 
 }
+
+func TestFileIO_Close(t *testing.T) {
+
+}
+
+func TestFileIO_Sync(t *testing.T) {
+
+}
